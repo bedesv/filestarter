@@ -3,7 +3,7 @@
     "desktop": 2,
     "process": "firefox",
     "arguments": "-p \"Work\"",
-    "monitor": "5",
+    "monitor": "3",
     "state": "max",
     "waitForClass": "MozillaWindowClass",
     "skipIfAlreadyRunning": false
@@ -12,7 +12,7 @@
   {
     "desktop": 1,
     "process": "olk",
-    "monitor": "5",
+    "monitor": "3",
     "state": "max",
     "hassplash": false,
     "skipIfAlreadyRunning": true
@@ -21,7 +21,7 @@
   {
     "desktop": 1,
     "process": "ms-teams",
-    "monitor": "6",
+    "monitor": "2",
     "state": "max",
     "hassplash": false,
     "skipIfAlreadyRunning": true
